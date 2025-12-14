@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*- 
 """
-Created on Tue Jan 14 19:00:04 2025
-
 @author: salla
 """
 
@@ -102,5 +100,6 @@ def prepare_data(df, train, selected_columns=None):
         df_final = pd.DataFrame(scaler.transform(df_final), columns=df_final.columns)
     
     return df_final
+
 
 print("Fin du script")

@@ -7,7 +7,7 @@ This project demonstrates:
 - Data preprocessing
 - Training two regression models
 - Model evaluation
-- Visualisation & interpretation
+- Analysis & interpretation
 
 ---
 
@@ -21,12 +21,11 @@ This project demonstrates:
 ---
 
 ## Repository Structure
-machine-learning-regression-python/
+machine-learning-python/
 
 ├── data/ → dataset(s)
 
-├── notebooks/ → Jupyter notebooks for both models
+├── notebooks/ → results analysis and interpretation
 
 ├── src/ → python scripts (preprocessing & model training)
 
-└── visuals/ → plots & evaluation charts

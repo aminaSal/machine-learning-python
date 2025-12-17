@@ -1,6 +1,6 @@
 # Machine Learning – Regression Models in Python
 
-## 🎯 Objective
+## Objective
 Compare two regression models (Linear Regression vs Random Forest) to determine which one provides the best predictive performance on a structured dataset.
 
 This project demonstrates:
@@ -11,16 +11,16 @@ This project demonstrates:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python  
 - pandas, numpy  
 - scikit-learn  
 - matplotlib, seaborn  
-- Jupyter Notebook  
+- Spyder - Anaconda  
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 machine-learning-regression-python/
 
 ├── data/ → dataset(s)
